@@ -37,7 +37,7 @@ This is a heavily modified version of the **Plooshiware** launcher, rewritten in
 
 | Role | Name |
 | ----------- | ----------- |
-| **Base Logic** | [@plooshiware](https://github.com/plooshiware) |
+| **Base Logic** | [@plooshiware](https://github.com/plooshi) |
 | **UI/WPF Mod** | Kxprv |
 | **Backend Original** | kxprv |
 
